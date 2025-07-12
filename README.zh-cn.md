@@ -2,8 +2,6 @@
 
 WildPromptor 是一个用于在 ComfyUI 中高效生成和管理提示的工具，专门设计用于简化提示生成和管理的过程。它使用户能够轻松创建、组织和自定义他们的创意内容，将混乱的工作流程转变为结构化和直观的体验。
 
-![WildPromptor_v1 0 0_note_sample](https://github.com/user-attachments/assets/962eccea-c894-42d0-905f-31f9b21611fe)
-
 [English ](README.md) / [繁體中文 ](README.zh-tw.md) / [简体中文 ](README.zh-cn.md)
 
 ## 简介
@@ -16,12 +14,15 @@ WildPromptor 讲究的是秩序与惊喜的结合。你可以井然有序地管�
 
 总之，WildPromptor 是你的创意伙伴，让 AI 艺术创作变得有趣、直观且高效。告别 wildcards 的困扰，迎接 WildPromptor 带来的灵感提示吧！
 
+## 更新和新闻
+
+- **2025/07/12**: ComfyUI-WildPromptor to **v1.1.0**
+   - i18n 
+
 ## 结构和功能
 
 ### 数据组织
 WildPromptor 在 `data` 目录中使用灵活的文件夹结构：
-
-![prompt_List_Sample](https://github.com/user-attachments/assets/3b17c9f2-04c0-4394-9673-3c3ec8898887)
 
 - **Subject**：人物、物体和主要主题的关键词
 - **Environment**：场景、风景和环境的关键词
