@@ -7,7 +7,7 @@ license = {file = "LICENSE"}
 dependencies = ["google-generativeai","requests"]
     
 [project.urls]
-Repository = "https://github.com/1038lab/Comfyui_WildPromptor"
+Repository = "https://github.com/1038lab/Comfyui-WildPromptor"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
