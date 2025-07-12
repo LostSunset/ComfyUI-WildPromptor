@@ -11,6 +11,6 @@ Repository = "https://github.com/1038lab/Comfyui_WildPromptor"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = "1038Lab"
+PublisherId = "ailab"
 DisplayName = "ComfyUI-WildPromptor"
 Icon = ""
